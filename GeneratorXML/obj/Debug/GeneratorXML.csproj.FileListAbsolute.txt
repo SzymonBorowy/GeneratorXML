@@ -1,0 +1,12 @@
+D:\REPOZYTORIUM GIT\GeneratorXML\GeneratorXML\bin\Debug\GeneratorXML.exe.config
+D:\REPOZYTORIUM GIT\GeneratorXML\GeneratorXML\bin\Debug\GeneratorXML.exe
+D:\REPOZYTORIUM GIT\GeneratorXML\GeneratorXML\bin\Debug\GeneratorXML.pdb
+D:\REPOZYTORIUM GIT\GeneratorXML\GeneratorXML\obj\Debug\GeneratorXML.csprojResolveAssemblyReference.cache
+D:\REPOZYTORIUM GIT\GeneratorXML\GeneratorXML\obj\Debug\GeneratorXML.Form1.resources
+D:\REPOZYTORIUM GIT\GeneratorXML\GeneratorXML\obj\Debug\GeneratorXML.Properties.Resources.resources
+D:\REPOZYTORIUM GIT\GeneratorXML\GeneratorXML\obj\Debug\GeneratorXML.csproj.GenerateResource.Cache
+D:\REPOZYTORIUM GIT\GeneratorXML\GeneratorXML\obj\Debug\GeneratorXML.csproj.CoreCompileInputs.cache
+D:\REPOZYTORIUM GIT\GeneratorXML\GeneratorXML\obj\Debug\GeneratorXML.exe
+D:\REPOZYTORIUM GIT\GeneratorXML\GeneratorXML\obj\Debug\GeneratorXML.pdb
+D:\REPOZYTORIUM GIT\GeneratorXML\GeneratorXML\obj\Debug\GeneratorXML.Form2.resources
+D:\REPOZYTORIUM GIT\GeneratorXML\GeneratorXML\obj\Debug\GeneratorXML.Form3.resources
